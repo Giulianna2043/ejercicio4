@@ -1,19 +1,18 @@
 # ejercicio1
 
-Inicio: Suma de dos numeros
+Inicio: Costo de llamada
 
 ## Ingreso datos
--numero 1
--numero 2
--numero 3
-resultado
+-tiempo
+-costo por minuto
+-costo de llamada
 
 ## Proceso
 
-pedir numero 1
-pedir numero 2
-Sumar numero 1 con numero 2 y numero 3 y almacenar en resultado
-promedio=resultado/3
-Mostrar resultado
+pedir tiempo
+pedir costo por minuto
+multiplicar tiempo por costo por minuto 
+
+Mostrar Costo de llamada
 
 # Fin #
